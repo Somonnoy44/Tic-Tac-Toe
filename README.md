@@ -53,3 +53,7 @@ https://docs.jupyter.org/en/latest/install/notebook-classic.html
 
 ### Run the program and play the game
 ![How to run and play Tic-Tac-Toe](https://user-images.githubusercontent.com/51916219/166132466-b904ddd4-bca4-4801-bb04-196716e4f3d5.gif)
+
+## Tic-Tac-Toe
+![Tic Tac Toe with background](https://user-images.githubusercontent.com/51916219/167236050-5aff6ea2-7ba3-4c61-89eb-8ab92521f964.gif)
+
