@@ -2,6 +2,9 @@
 Repository containing the Tic Tac Toe game made in python. <br>
 Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. (Wikipedia Definition)
 
+The video of the gameplay can be viewed on youtube.
+https://www.youtube.com/watch?v=0oBkR-rOqpQ
+
 ## Tic-Tac-Toe Interface Preview
 ![Tic Tac Toe Game Interface Preview](https://user-images.githubusercontent.com/51916219/166132758-1e84a98e-f5e6-4ec7-b394-446cc76dff4a.png)
 
